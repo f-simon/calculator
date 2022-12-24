@@ -2,7 +2,7 @@
 public class Calculator {
     public static public static void main(String[] args) {
         public int addition(int a, int b){
-            return a + b;
+            return b + a;
         }
 		
 		public double addition(double a, double b, double c) {
