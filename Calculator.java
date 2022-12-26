@@ -6,6 +6,7 @@ public class Calculator {
 		
 
 		public double addition(double a, double b) {
-			return a + b;
+			// Causes  merge conflict
+			return b + a;
 			
 }
